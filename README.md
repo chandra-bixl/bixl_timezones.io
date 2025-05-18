@@ -4,7 +4,7 @@ Time Zones with DST for Power BI Last Refresh Date &amp; Time. **All data is in 
 Please use the Power Query Reference file here - [TimeZoneMaster.pbix](https://github.com/chandra-bixl/bixl_timezones.io/raw/refs/heads/main/TimeZoneMaster.pbix)
 
 
-| TimeZoneIndex | Region_Country                     | Cities                              | Timezones   | DST_Observed | Standard_UTC_Offset | DST_UTC_Offset | DST_Start_Day | Start_Day_Instance | DST_Start_Month | Start_Hour | DST_End_Day | DST_End_Day_Instance | DST_End_Month | DST_End_Hour |
+| TimeZoneIndex | Region_Country                     | Cities                              | Timezones   | DST_Observed | Standard_UTC_Offset | DST_UTC_Offset | DST_Start_Day | Start_Day_Instance | DST_Start_Month | DST_Start_Hour | DST_End_Day | DST_End_Day_Instance | DST_End_Month | DST_End_Hour |
 |---------------|------------------------------------|--------------------------------------|---------------|--------------|---------------------|----------------|----------------------|--------------------|-------------|------------|------------------|------------------|-----------|----------|
 | 1             | India                              |                                      | IST           | No           | 5.5                 |                |                      |                    |             |            |                  |                  |           |          |
 | 2             | United States & Canada (Eastern)   |                                      | EST/EDT       | Yes          | -5                  | -4             | Sunday               | 2                  | 3           | 2          | Sunday           | 1                | 11        | 6        |

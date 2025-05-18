@@ -1,7 +1,7 @@
 # BIXL.Solutions - Time Zones
 
 Time Zones with DST for Power BI Last Refresh Date &amp; Time. **All data is in UTC only.**
-Please use the Power Query Reference file - [TimeZoneMaster.pbix] (https://github.com/chandra-bixl/bixl_timezones.io/raw/refs/heads/main/TimeZoneMaster.pbix)
+Please use the Power Query Reference file here [TimeZoneMaster.pbix] (https://github.com/chandra-bixl/bixl_timezones.io/raw/refs/heads/main/TimeZoneMaster.pbix)
 
 
 | TimeZoneIndex | Region/Country                     | Cities                              | Timezone(s)   | DST Observed | Standard UTC Offset | DST UTC Offset | DST Start: Start_Day | Start_Day Instance | Start_Month | Start_Hour | DST End: End_Day | End_Day Instance | End_Month | End_Hour |

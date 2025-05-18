@@ -1,5 +1,5 @@
-# bixl_timezones.io
-Time Zones with DST for Power BI Last Refresh Date &amp; Time. All data is in UTC only.
+# Time Zones for Power BI Last Refresh. Please use the Power Query Reference file.
+Time Zones with DST for Power BI Last Refresh Date &amp; Time. **All data is in UTC only.**
 
 | TimeZoneIndex | Region/Country                     | Cities                              | Timezone(s)   | DST Observed | Standard UTC Offset | DST UTC Offset | DST Start: Start_Day | Start_Day Instance | Start_Month | Start_Hour | DST End: End_Day | End_Day Instance | End_Month | End_Hour |
 |---------------|------------------------------------|--------------------------------------|---------------|--------------|---------------------|----------------|----------------------|--------------------|-------------|------------|------------------|------------------|-----------|----------|

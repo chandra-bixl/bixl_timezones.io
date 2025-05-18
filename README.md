@@ -2,7 +2,8 @@
 
 Time Zones with DST for Power BI Last Refresh Date &amp; Time. **All data is in UTC only.**
 
-**Australia Timezones DST is reversed to accommodate as a single condition in Power Query**
+**Important Note:** Australia Timezones DST is reversed to accommodate as a single condition in Power Query
+
 Please use the Power Query Reference file here - [TimeZoneMaster.pbix](https://github.com/chandra-bixl/bixl_timezones.io/raw/refs/heads/main/TimeZoneMaster.pbix)
 
 
